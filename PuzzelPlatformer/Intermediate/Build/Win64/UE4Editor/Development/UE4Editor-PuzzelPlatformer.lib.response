@@ -1,0 +1,18 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-PuzzelPlatformer.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Unreal\PuzzelPlatformer\Intermediate\Build\Win64\UE4Editor\Development\PuzzelPlatformer\PuzzelPlatformer.cpp.obj"
+"C:\Unreal\PuzzelPlatformer\Intermediate\Build\Win64\UE4Editor\Development\PuzzelPlatformer\PuzzelPlatformerCharacter.cpp.obj"
+"C:\Unreal\PuzzelPlatformer\Intermediate\Build\Win64\UE4Editor\Development\PuzzelPlatformer\PuzzelPlatformerGameMode.cpp.obj"
+"C:\Unreal\PuzzelPlatformer\Intermediate\Build\Win64\UE4Editor\Development\PuzzelPlatformer\PuzzelPlatformer.init.gen.cpp.obj"
+"C:\Unreal\PuzzelPlatformer\Intermediate\Build\Win64\UE4Editor\Development\PuzzelPlatformer\PuzzelPlatformerCharacter.gen.cpp.obj"
+"C:\Unreal\PuzzelPlatformer\Intermediate\Build\Win64\UE4Editor\Development\PuzzelPlatformer\PuzzelPlatformerGameMode.gen.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\PuzzelPlatformer\PCLaunch.rc.res"
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"C:\Unreal\PuzzelPlatformer\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-PuzzelPlatformer.lib"

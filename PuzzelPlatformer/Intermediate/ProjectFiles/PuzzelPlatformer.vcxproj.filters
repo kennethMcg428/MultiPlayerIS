@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\PuzzelPlatformer.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{7EA34F1D-FEF1-458B-A02B-93013A020927}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\PuzzelPlatformer.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\PuzzelPlatformerEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{2D5185B8-30A7-4A27-A12E-341135A91126}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\PuzzelPlatformer">
+			<UniqueIdentifier>{AB08DBD0-A8F1-42C2-8328-97375874161A}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\PuzzelPlatformer\PuzzelPlatformer.Build.cs">
+			<Filter>Source\PuzzelPlatformer</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\PuzzelPlatformer\PuzzelPlatformer.cpp">
+			<Filter>Source\PuzzelPlatformer</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\PuzzelPlatformer\PuzzelPlatformer.h">
+			<Filter>Source\PuzzelPlatformer</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\PuzzelPlatformer\PuzzelPlatformerCharacter.cpp">
+			<Filter>Source\PuzzelPlatformer</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\PuzzelPlatformer\PuzzelPlatformerCharacter.h">
+			<Filter>Source\PuzzelPlatformer</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\PuzzelPlatformer\PuzzelPlatformerGameMode.cpp">
+			<Filter>Source\PuzzelPlatformer</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\PuzzelPlatformer\PuzzelPlatformerGameMode.h">
+			<Filter>Source\PuzzelPlatformer</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
